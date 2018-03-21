@@ -1,6 +1,8 @@
 
 # Journalism Trivia Game
 
+<img src="https://github.com/kbwats/TriviaGame/blob/master/assets/images/journoHeader.jpg">
+
 The Journalism Trivia Game is a timed, multiple choice quiz on the topic of journalism. 
 
 ## Technologies Used
